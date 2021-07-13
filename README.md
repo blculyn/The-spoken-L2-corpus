@@ -5,20 +5,18 @@ The spoken L2 corpus represents present-day spoken Chinese (Putonghua) used in m
 
 ## FILES IN THIS DOWNLOAD VERSION.txt
 * spoken/untagged
-
-* orginial text files. No headers.
+  * orginial text files of L1-L2 conversations. No headers.
+  * original text files of L2 speech only. No headers.
 * spoken/metadata
-
-* text files containing speaker and recording metadata.
-* the spoken Chinese corpus transcription scheme. pdf
-
+  * text files containing speaker and recording metadata.
 * transcription guidelines
+  * the spoken Chinese corpus transcription scheme. pdf
 * License
 
 ### VERSION HISTORY
 * Version 1.0 - the spoken L2 corpus release as downloadable text files in March 2021
 
 # How to acknowledge the use of the corpus?
-The corpus user is required to acknowledge the spoken Chinese corpus in any publication or presentation arising from the use of the corpus data by citing the following reference:
+### The corpus user is required to acknowledge the spoken Chinese corpus in any publication or presentation arising from the use of the corpus data by citing the following reference:
 * Li, L. (2021). A spoken Chinese corpus: Development, description, and application in L2 studies [Unpublished Doctoral dissertation]. Massey University. https://github.com/blculyn
 
