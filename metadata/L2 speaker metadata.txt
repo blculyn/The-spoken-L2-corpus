@@ -1,0 +1,16 @@
+Metadata categories of L2 speakers listed sequentially are speaker ID, gender, age, and nationality.
+ 
+L01 male, age c.32, New Zealand     
+L02 male, age c.24, New Zealand
+L03 female, age c.22, New Zealand
+L04 Female, age c.24, New Zealand      
+L05 female, age c.35, New Zealand     
+L06 male, age c.32, New Zealand
+L07 male, age c.40, New Zealand
+L08 male, age c.24, Australia
+L09 male, age c.40, New Zealand
+L10 male, age c.30, New Zealand
+L11 male, age c.24, New Zealand
+L12 male, age c.40, New Zealand
+L13 male, age c.30, New Zealand       
+L14 male, age c.24, Australia
